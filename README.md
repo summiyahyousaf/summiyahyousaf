@@ -3,7 +3,7 @@
 # Hi there 👋
 
 <p align="center">
-  <img src="https://github.com/summiyahyousaf/summiyahyousaf/blob/main/banner.png?raw=true" alt="Banner" width="100%">
+  <img src="https://github.com/summiyahyousaf/summiyahyousaf/blob/main/picture.png?raw=true" alt="Banner" width="100%">
 </p>
 
 
