@@ -20,15 +20,6 @@ driven by curiosity and a passion for solving real-world problems through techno
 
 
 
-#  GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=summiiyahyousaf&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=summiiyahyousaf&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ### A Bit About Me
 
