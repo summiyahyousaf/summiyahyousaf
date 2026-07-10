@@ -2,7 +2,9 @@
 
 # Hi there, I'm Summiyah 👋
 
-<img src="">
+<p align="center">
+  <img src="images/banner.png" alt="Banner" width="100%">
+</p>
 
 </div>
 
