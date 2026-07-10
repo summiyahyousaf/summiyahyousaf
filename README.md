@@ -9,27 +9,13 @@
 ---
 
 ## 👩‍💻 About Me
+BS Artificial Intelligence Student at **Air University Islamabad**
 
-🎓 BS Artificial Intelligence Student at **Air University Islamabad**
+Passionate about Artificial Intelligence, Machine Learning, NLP, and Generative AI.
 
-🤖 Passionate about Artificial Intelligence, Machine Learning, NLP, and Generative AI.
+ I enjoy solving real-world problems by building practical AI applications.
 
-💡 I enjoy solving real-world problems by building practical AI applications.
 
-🌱 Currently learning **Harvard CS50's Introduction to Artificial Intelligence with Python**
-
-🚀 My goal is to become an AI Engineer and contribute to impactful AI solutions.
-
----
-
-## 🚀 Currently Working On
-
-- 🎓 Harvard CS50 AI with Python
-- 🤖 AI Resume Analyzer *(Coming Soon)*
-- 💬 Improving my Space Chatbot
-- 📚 Learning Machine Learning & Deep Learning
-
----
 
 # 🛠️ Tech Stack
 
@@ -39,43 +25,7 @@
 <img src="https://skillicons.dev/icons?i=python,cpp,html,css" />
 </p>
 
-### Tools & Technologies
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
-
-### Currently Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-🌌 **Space Chatbot**
-
-- AI-powered chatbot
-- Python
-- GitHub
-
----
-
-🤖 **AI Resume Analyzer** *(Coming Soon)*
-
-- Resume scoring
-- NLP
-- Machine Learning
-
----
-
-🎓 **CS50 AI Projects**
-
-Harvard's Introduction to Artificial Intelligence with Python
-
----
 
 # 📈 GitHub Stats
 
@@ -87,85 +37,16 @@ Harvard's Introduction to Artificial Intelligence with Python
 
 </p>
 
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=summiiyahyousaf&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=summiiyahyousaf&theme=tokyonight&row=1&column=6"/>
-
-</p>
-
----
-
-# 📚 Learning Journey
-
-✅ Python
-
-✅ Git & GitHub
-
-🔄 Harvard CS50 AI
-
-🔄 Machine Learning
-
-🔄 Deep Learning
-
-🔄 Natural Language Processing
-
-🔄 Computer Vision
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Complete Harvard CS50 AI
-- 🚀 Build 10 AI Projects
-- 📜 Earn AI Certifications
-- 💼 Secure an AI Internship
-- 🌟 Contribute to Open Source
-
----
 
 # 🌐 Connect With Me
 
 <p>
 
-<a href="https://linkedin.com/in/your-linkedin-url">
+<a href="https://www.linkedin.com/in/summiya-yousaf-24411534a/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_GMAIL@gmail.com">
+<a href="mailto:summiyahyousaf@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<a href="https://github.com/summiiyahyousaf">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### ⭐ "Every project is a step toward becoming the AI engineer I aspire to be."
-
-<img src="https://komarev.com/ghpvc/?username=summiiyahyousaf&style=for-the-badge&color=blue"/>
-
-</div>
-
-
-
-
 
