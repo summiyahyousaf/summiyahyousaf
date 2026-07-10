@@ -2,7 +2,7 @@
 
 # Hi there, I'm Summiyah 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Machine+Learning+Enthusiast;Python+Developer;Building+AI+Projects;Future+AI+Engineer+🚀" />
+<img src="">
 
 </div>
 
@@ -28,7 +28,7 @@ driven by curiosity and a passion for solving real-world problems through techno
  I also love expressing my thoughts through writing. Blogging allows me to share my ideas, reflect on my experiences, and document my journey in technology.            
 
 
-#  Connect With Me
+###  Connect With Me
 
 <p>
 
