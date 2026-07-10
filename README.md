@@ -3,7 +3,7 @@
 # Hi there, I'm Summiyah 👋
 
 <p align="center">
-  <img src="images/banner.png" alt="Banner" width="100%">
+  <img src="https://github.com/summiyahyousaf/summiyahyousaf/blob/main/banner.png?raw=true" alt="Banner" width="100%">
 </p>
 
 </div>
