@@ -1,12 +1,11 @@
-<div align="center">
 
-# Hi there, I'm Summiyah 👋
+
+# Hi there 👋
 
 <p align="center">
   <img src="https://github.com/summiyahyousaf/summiyahyousaf/blob/main/banner.png?raw=true" alt="Banner" width="100%">
 </p>
 
-</div>
 
  BSAI student at Air University Islamabad
 
