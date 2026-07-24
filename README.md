@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B5FA2&background=BD5EB700&width=435&lines=+Hi+there!+I'm+Summiya+Yousaf+;Diving+into+the+world+of+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=9B5FA2&background=BD5EB700&width=435&lines=+Hi+there!+I'm+Summiyah+Yousaf+;Diving+into+the+world+of+AI)](https://git.io/typing-svg)
 
 
  BSAI student at Air University Islamabad
