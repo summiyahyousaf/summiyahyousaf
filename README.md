@@ -54,6 +54,7 @@ Spam email detection using Natural Language Processing.
 ###  [Space Chatbot](https://github.com/yourusername/space-chatbot)
 Interactive chatbot for answering space-related queries.
 
+
 ###  Connect With Me
 
 <p>
@@ -69,4 +70,14 @@ Interactive chatbot for answering space-related queries.
 <a href="https://www.kaggle.com/summiyahyousaf" target="_blank">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
+
+## Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/summiyahyousaf/summiyahyousaf/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/summiyahyousaf/summiyahyousaf/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/summiyahyousaf/summiyahyousaf/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</p>
 
