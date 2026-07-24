@@ -34,13 +34,25 @@ I believe continuous learning and real-world projects are the foundation of beco
 
 </p>
 
+## Certifications
 
-### A Bit About Me
+🏅 CS50's Introduction to Programming with Python
 
- I enjoy exploring new technologies,and taking on challenges that help me grow as both a developer and a person.
+🏅 Deloitte Data Analytics Virtual Job Simulation
 
- I also love expressing my thoughts through writing. Blogging allows me to share my ideas, reflect on my experiences, and document my journey in technology.            
+🏅 Kaggle Machine Learning Certificate
 
+
+##  Featured Projects
+
+###  [AI Medical Assistant](https://github.com/yourusername/AI-Medical-Assistant)
+AI-powered disease prediction system built with Machine Learning and Flask.
+
+###  [Email Spam Classifier](https://github.com/yourusername/email-classifier)
+Spam email detection using Natural Language Processing.
+
+###  [Space Chatbot](https://github.com/yourusername/space-chatbot)
+Interactive chatbot for answering space-related queries.
 
 ###  Connect With Me
 
