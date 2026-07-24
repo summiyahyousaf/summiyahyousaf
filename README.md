@@ -1,9 +1,15 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=1000&color=9B5FA2&background=BD5EB700&width=435&lines=+Hi+there!+I'm+Summiyah+Yousaf+;Curiosity+%E2%80%A2+Innovation+%E2%80%A2+Impact;Turning+Curiosity+into+Solutions." alt="Typing SVG" /></a>
 
 
- BSAI student at Air University Islamabad
 
-driven by curiosity and a passion for solving real-world problems through technology. Exploring Machine Learning, software development, and AI applications in healthcare while building innovative projects, conducting research, and continuously expanding my technical skills.
+ ## 👩‍💻 About Me
+ BSAI student @Air University Islamabad
+
+Curiosity drives everything I build.
+
+As a BSAI student at Air University Islamabad, I'm passionate about developing intelligent systems that create meaningful impact. My work focuses on Machine Learning, Computer Vision, Natural Language Processing, and Healthcare AI, where I enjoy transforming complex ideas into practical applications.
+
+I believe continuous learning and real-world projects are the foundation of becoming a better AI engineer.
 
 
 
@@ -13,7 +19,20 @@ driven by curiosity and a passion for solving real-world problems through techno
 <img src="https://skillicons.dev/icons?i=python,cpp,html," />
 </p>
 
+## Tech Stack
+<p align="left">
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+</p>
 
 
 ### A Bit About Me
