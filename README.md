@@ -49,15 +49,21 @@ I believe continuous learning and real-world projects are the foundation of beco
 
 ##  Featured Projects
 
-###  [AI Medical Assistant](https://github.com/yourusername/AI-Medical-Assistant)
-AI-powered disease prediction system built with Machine Learning and Flask.
+### AI Medical Assistant
 
-###  [Email Spam Classifier](https://github.com/yourusername/email-classifier)
-Spam email detection using Natural Language Processing.
+Machine Learning • Flask • Healthcare AI
 
-###  [Space Chatbot](https://github.com/yourusername/space-chatbot)
-Interactive chatbot for answering space-related queries.
+An AI-powered healthcare assistant that predicts diseases from user symptoms using machine learning models and provides an interactive web interface built with Flask.
 
+🔗 Repository: github.com/summiyahyousaf/AI_Medical_Assistant
+
+### Space AI Chatbot
+
+Flask • REST APIs • Conversational AI
+
+An intelligent chatbot that delivers real-time space information by integrating NASA, Open Notify, and SpaceX APIs, with voice interaction and a responsive web interface.
+
+🔗 Repository: github.com/summiyahyousaf/space-chatbot
 
 ###  Connect With Me
 
