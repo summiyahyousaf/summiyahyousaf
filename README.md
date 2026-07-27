@@ -6,7 +6,7 @@
 
 
 
- ## 👩‍💻 About Me
+ ##  About Me
  BSAI student @Air University Islamabad
 
 Curiosity drives everything I build.
@@ -55,7 +55,7 @@ Machine Learning • Flask • Healthcare AI
 
 An AI-powered healthcare assistant that predicts diseases from user symptoms using machine learning models and provides an interactive web interface built with Flask.
 
-🔗 Repository: github.com/summiyahyousaf/AI_Medical_Assistant
+🔗 Repository: https://github.com/summiyahyousaf/AI_Medical_Assistant
 
 ### Space AI Chatbot
 
