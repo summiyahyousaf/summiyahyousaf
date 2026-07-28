@@ -82,10 +82,13 @@ An intelligent chatbot that delivers real-time space information by integrating 
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=summiyahyousaf&theme=tokyonight&hide_border=true"/>
-</p>
+##  GitHub Stats
 
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=summiyahyousaf&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=summiyahyousaf&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 ## Contribution Graph
 
 <p align="center">
