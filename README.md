@@ -82,10 +82,19 @@ An intelligent chatbot that delivers real-time space information by integrating 
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=summiyahyousaf&show_icons=true&theme=tokyonight&hide_border=true" />
+## Languages
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=summiyahyousaf&layout=compact&theme=tokyonight&hide_border=true" />
+https://github-readme-stats.vercel.app/api/top-langs/?username=summiyahyousaf&layout=compact&theme=tokyonight&hide_border=true
+
+##  GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=summiyahyousaf&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=summiyahyousaf&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=summiyahyousaf&theme=tokyonight" />
 </p>
 
 ## Contribution Graph
