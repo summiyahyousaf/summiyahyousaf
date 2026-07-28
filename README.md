@@ -9,31 +9,21 @@
  ##  About Me
  BSAI student @Air University Islamabad
 
-Curiosity drives everything I build.
-
-As a BSAI student at Air University Islamabad, I'm passionate about developing intelligent systems that create meaningful impact. My work focuses on Machine Learning, Computer Vision, Natural Language Processing, and Healthcare AI, where I enjoy transforming complex ideas into practical applications.
-
-I believe continuous learning and real-world projects are the foundation of becoming a better AI engineer.
+As a BSAI student at Air University Islamabad, I enjoy building AI-powered applications that solve real-world problems through machine learning and data-driven solutions. My interests include Machine Learning, Computer Vision, Natural Language Processing, and Healthcare AI, where I transform ideas into practical applications through hands-on projects.
 
 
+##  Tech Stack
 
-### Programming Languages
-
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,flask,git,github,vscode" />
-
-## Tech Stack
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,flask,git,github,vscode" />
+</p>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+### Libraries & Tools
 
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
 
 
@@ -47,6 +37,8 @@ I believe continuous learning and real-world projects are the foundation of beco
 
 
 ##  Featured Projects
+
+A selection of projects showcasing my interest in Artificial Intelligence, Machine Learning, and Web Development.
 
 ### AI Medical Assistant
 
@@ -100,5 +92,5 @@ An intelligent chatbot that delivers real-time space information by integrating 
 
 <a href="https://www.kaggle.com/summiyahyousaf" target="_blank">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
+</a></p>
 
