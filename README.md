@@ -17,11 +17,9 @@ I believe continuous learning and real-world projects are the foundation of beco
 
 
 
-### Languages
+### Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,html," />
-</p>
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,flask,git,github,vscode" />
 
 ## Tech Stack
 <p align="left">
@@ -56,7 +54,7 @@ Machine Learning • Flask • Healthcare AI
 
 An AI-powered healthcare assistant that predicts diseases from user symptoms using machine learning models and provides an interactive web interface built with Flask.
 
-🔗 Repository: https://github.com/summiyahyousaf/AI_Medical_Assistant
+[![View Repository](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge)](https://github.com/summiyahyousaf/AI_Medical_Assistant)
 
 ### Space AI Chatbot
 
@@ -65,22 +63,6 @@ Flask • REST APIs • Conversational AI
 An intelligent chatbot that delivers real-time space information by integrating NASA, Open Notify, and SpaceX APIs, with voice interaction and a responsive web interface.
 
 🔗 Repository: https://github.com/summiyahyousaf/space-chatbot
-
-###  Connect With Me
-
-<p>
-
-<a href="https://www.linkedin.com/in/summiya-yousaf-24411534a/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:summiyahyousaf@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.kaggle.com/summiyahyousaf" target="_blank">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
 
 
 ##  GitHub Stats
@@ -103,4 +85,20 @@ An intelligent chatbot that delivers real-time space information by integrating 
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/summiyahyousaf/summiyahyousaf/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </p>
+
+###  Connect With Me
+
+<p>
+
+<a href="https://www.linkedin.com/in/summiya-yousaf-24411534a/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:summiyahyousaf@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.kaggle.com/summiyahyousaf" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
 
