@@ -82,9 +82,6 @@ An intelligent chatbot that delivers real-time space information by integrating 
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
-## Languages
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=summiyahyousaf&layout=compact&theme=tokyonight&hide_border=true
 
 ##  GitHub Stats
 
