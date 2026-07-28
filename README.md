@@ -38,9 +38,10 @@ I believe continuous learning and real-world projects are the foundation of beco
 
 </p>
 
+
 ## Certifications
 
-🏅 CS50's Introduction to Programming with Python
+🏅 Harvard CS50P – Introduction to Programming with Python 
 
 🏅 Deloitte Data Analytics Virtual Job Simulation
 
@@ -80,6 +81,10 @@ An intelligent chatbot that delivers real-time space information by integrating 
 <a href="https://www.kaggle.com/summiyahyousaf" target="_blank">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=summiyahyousaf&theme=tokyonight&hide_border=true"/>
+</p>
 
 ## Contribution Graph
 
