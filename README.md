@@ -62,7 +62,7 @@ Flask • REST APIs • Conversational AI
 
 An intelligent chatbot that delivers real-time space information by integrating NASA, Open Notify, and SpaceX APIs, with voice interaction and a responsive web interface.
 
-🔗 Repository: https://github.com/summiyahyousaf/space-chatbot
+[![View Repository](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge)](https://github.com/summiyahyousaf/space-chatbot)
 
 
 ##  GitHub Stats
