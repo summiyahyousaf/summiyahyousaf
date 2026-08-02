@@ -35,6 +35,15 @@ As a BSAI student at Air University Islamabad, I enjoy building AI-powered appli
 
 🏅 Kaggle Machine Learning Certificate
 
+##  Experience
+
+### Machine Learning Intern | Arc Technologies
+📅 July 2026 - August 2026
+
+
+### Artificial Intelligence Intern | DecodeLabs
+📅 July 2026 - August 2026
+
 
 ##  Featured Projects
 
