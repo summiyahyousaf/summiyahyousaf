@@ -66,12 +66,6 @@ An intelligent chatbot that delivers real-time space information by integrating 
 [![View Repository](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge)](https://github.com/summiyahyousaf/space-chatbot)
 
 
-##  GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=summiyahyousaf&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=summiyahyousaf&layout=compact&theme=tokyonight"/>
-</p>
 
 ## Contribution Graph
 
