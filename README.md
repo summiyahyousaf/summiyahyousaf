@@ -42,7 +42,7 @@ As a BSAI student at Air University Islamabad, I enjoy building AI-powered appli
 
 
 ### Artificial Intelligence Intern | DecodeLabs
-📅 July 2026 - August 2026
+📅 17th July 2026 - 17th August 2026
 
 
 ##  Featured Projects
