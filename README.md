@@ -37,9 +37,6 @@ As a BSAI student at Air University Islamabad, I enjoy building AI-powered appli
 
 ##  Experience
 
-### Machine Learning Intern | Arc Technologies
-📅 July 2026 - August 2026
-
 
 ### Artificial Intelligence Intern | DecodeLabs
 📅 17th July 2026 - 17th August 2026
@@ -47,7 +44,14 @@ As a BSAI student at Air University Islamabad, I enjoy building AI-powered appli
 
 ##  Featured Projects
 
-A selection of projects showcasing my interest in Artificial Intelligence, Machine Learning, and Web Development.
+###  ResearchMate AI Agent
+
+Python • Flask • RAG • Ollama • FAISS • AI Agents
+
+An autonomous AI research assistant that discovers academic papers, ranks relevant research, retrieves information using RAG, identifies research gaps, generates citations, and produces downloadable research reports.
+
+[![View Repository](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge)](https://github.com/summiyahyousaf/ResearchMate-AI-Agent)
+
 
 ### AI Medical Assistant
 
